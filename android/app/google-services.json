@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406190673563",
+    "firebase_url": "https://choritha.firebaseio.com",
+    "project_id": "choritha",
+    "storage_bucket": "choritha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406190673563:android:d031fe35aa7f6e7397403e",
+        "android_client_info": {
+          "package_name": "com.example.choritha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406190673563-cvdgli8clnu5lv76idrk7q1hnh3lhnp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBZoI0qYLbBGXvzDKvXamwBuco-BDSpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406190673563-cvdgli8clnu5lv76idrk7q1hnh3lhnp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
